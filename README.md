@@ -12,7 +12,7 @@ This repo contains algorithm demos which uses [pyQuEST](https://github.com/rrmei
 
 ## Installation
 More detailed instructions can be found in the first notebook
-1. Clone/Download PyQuEST: `git clone -b develop --recursive https://github.com/rrmeister/pyQuEST.com:rrmeister/pyQuEST.git`
+1. Clone/Download PyQuEST: `git clone -b develop --recursive https://github.com/rrmeister/pyQuEST`
 
 2. Create new python environment: `conda create -n pyquest python=3.9`, then run `conda activate pyquest`
 
